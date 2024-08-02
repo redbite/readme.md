@@ -1,6 +1,6 @@
 Hello 🌍!
-- :computer: junior backend engineer. 
-- 👨‍💻 Actually working with 🍵 Java, 🌿 Spring, :floppy_disk: MySQL.
+- :computer: fullstack software engineer. 
+- 👨‍💻 Actually working with 🍵 Java, 🌿 SpringBoot, :floppy_disk: MySQL, React, Typescript.
 - 📫 lssln97@gmail.com
 
 <!---
